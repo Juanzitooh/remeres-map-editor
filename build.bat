@@ -7,7 +7,7 @@ set PROJECT_DIR=C:\Users\Dell\Documents\GitHub\remeres-map-editor
 set BUILD_DIR=%PROJECT_DIR%\build
 
 :: Triplet usado
-set VCPKG_TRIPLET=x64-windows-static
+set VCPKG_TRIPLET=x64-windows
 
 echo --------------------------------------
 echo Criando pasta de build, se necessário...
